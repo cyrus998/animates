@@ -56,7 +56,7 @@ final class Versions
   'jenssegers/agent' => 'v2.6.4@daa11c43729510b3700bc34d414664966b03bffe',
   'joelbutcher/socialstream' => '3.2.2@e35b8f8faf3f4380ee4f26012443ca3019a256aa',
   'laravel/fortify' => 'v1.8.3@19f71710cb4c6a2e774aece8a8c920165a95a059',
-  'laravel/framework' => 'v8.70.2@dec9524cd0f9fa35a6eb8e25d0b40f8bbc8ec225',
+  'laravel/framework' => 'v8.71.0@d822426d75ecf8e8ccd3ccd404db7202d1a9875e',
   'laravel/jetstream' => 'v2.4.4@24d90e998a97636871d1d0f6a2f32cc8f954666d',
   'laravel/sanctum' => 'v2.12.1@e610647b04583ace6b30c8eb74cee0a866040420',
   'laravel/serializable-closure' => 'v1.0.3@6cfc678735f22ccedad761b8cae2bab14c3d8e5b',
@@ -124,7 +124,7 @@ final class Versions
   'webmozart/assert' => '1.10.0@6964c76c7804814a842473e0c8fd15bab0f18e25',
   'doctrine/instantiator' => '1.4.0@d56bf6102915de5702778fe20f2de3b2fe570b5b',
   'facade/flare-client-php' => '1.9.1@b2adf1512755637d0cef4f7d1b54301325ac78ed',
-  'facade/ignition' => '2.16.0@23400e6cc565c9dcae2c53704b4de1c4870c0697',
+  'facade/ignition' => '2.16.1@29b533f63a3b269aa599d08dd4d22a0d720e295f',
   'facade/ignition-contracts' => '1.0.2@3c921a1cdba35b68a7f0ccffc6dffc1995b18267',
   'fakerphp/faker' => 'v1.16.0@271d384d216e5e5c468a6b28feedf95d49f83b35',
   'filp/whoops' => '2.14.4@f056f1fe935d9ed86e698905a957334029899895',
@@ -162,7 +162,7 @@ final class Versions
   'sebastian/type' => '2.3.4@b8cd8a1c753c90bc1a0f5372170e3e489136f914',
   'sebastian/version' => '3.0.2@c6c1022351a901512170118436c764e473f6de8c',
   'theseer/tokenizer' => '1.2.1@34a41e998c2183e22995f158c581e7b5e755ab9e',
-  'laravel/laravel' => 'dev-main@f973f16bbd0304ccd0e750dc7292fdf536645a78',
+  'laravel/laravel' => 'dev-main@bb061cbbf486c95e0d888efa5e663be5ba69d2e1',
 );
 
     private function __construct()
